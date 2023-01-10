@@ -7,7 +7,7 @@ By Kiana Navarre
 This project combines 2 data sets, both looking at the same schools, to examine if school size, budget, and type (public district or charter) has any notable influence on those schools reading and math scores.  This combined dataframe is then used to examine the factors listed below. 
 
 ## Analysis Summary
-- Contrary to expectations, the amount spend per student had a negative relation to overall student grades.  Students in the <$585 spending per student category had an overall passing percentage of of 90.37% and students in the $645-680 spending per student category had an overall passing percentage of 53.53%
+- Contrary to expectations, the amount spend per student had a negative relation to overall student grades.  Students in the <$585 spending per student category had an overall passing percentage of of 90.37% and students in the $645-680 spending per student category had an overall passing percentage of 53.53%.
 - Large schools had significtanly lower passing grades than both the Medium and Small Size schools.  Large schools having an overall passing percentage of 52.29% and the medium and small schools having overall passing percentages of 90.62% and 89.88% respectively.  
 - Charter schools had significanly higher passing grades than District schools, both in overall scores and math scores. Charter schools having a passing math percentage of 93.62% and an overall pssing percentage of 90.43%, whith District schools having a passing math percentage of 66.55% and an overall pssing percentage of 53.67%.
 
